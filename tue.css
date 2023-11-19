@@ -1,0 +1,19 @@
+body
+{
+    background-image: url("25.png");
+}
+
+table
+{
+    margin: 10px;
+    border-radius: 3px;
+    background-color: white;
+    border: black solid 1px;
+    width: 740px;
+}
+
+#menu
+{
+    border-radius: 3px;
+    border: black solid 1px;
+}
